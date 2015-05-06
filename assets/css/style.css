@@ -1,3 +1,20 @@
+/*
+    Custom CSS
+*/
+
+.img-pad {
+    padding-top: 30px;
+    padding-right: 0px;
+}
+
+.i-block {
+    display: block;
+    padding-top: 30px;
+}
+
+/*
+    Theme CSS
+*/
 
 body {
     font-family: 'Roboto', sans-serif;
