@@ -12,6 +12,10 @@
     padding-top: 30px;
 }
 
+.subscribe input.subscribe-email {
+    margin-top: 6px;
+}
+
 /*
     Theme CSS
 */
